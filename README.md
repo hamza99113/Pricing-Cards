@@ -9,7 +9,7 @@
 
 ## How to run the project
 - Download the project zip file
-- Run Home.html File
+- Run index.html File
 
 # Screenshots
 ![127 0 0 1_5500_Bootstrap_Mini_Projects_index html](https://github.com/hamza99113/ExpenseBar-App/assets/105864157/39a50986-7a70-4bfa-aea0-e1a187299973)
